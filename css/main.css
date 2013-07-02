@@ -1,8 +1,8 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    color:rgb(85, 85, 85);;
+    color: #555555;;
     font-size: 14px;
-    background-color: #EBECEE;
+    background-color: #c5c8cd;
 }
 .center{text-align: center;}
 
@@ -12,7 +12,7 @@ body{
  h4{ font-size: 28px; font-weight: 300; margin-bottom: 20px;}
 
 header{
-    background-color: #919191;
+    background-color: #ffffff;
     height: 65px;
     color: #fff;
 }
@@ -20,35 +20,39 @@ header{
 .copyright{}
 
 .style6 {
-    color: #FF9D3B;
+    color: #555555;
 }
 
 .btns{
-    background-color: #FF9D3B;
-    background-image: linear-gradient(#ffa347, #ff9d3b);
+    background-color: #EBECEE;
+    background-image: linear-gradient(#EBECEE, #EBECEE);
     border-radius: 2px;
-    color: #fff;
+    color: #888888;
     padding-left: 25px; padding-right: 25px; padding-top: 10px; padding-bottom: 10px;}
-a.btns{text-transform: uppercase;font-size:13px;text-decoration: none; color: #ffffff; font-weight: 300;}
-a.btns:hover{ text-decoration: none; color: #444D59;}
-a.btns:visited{ text-decoration: none; color: #ffffff;}
+a.btns{ text-transform: uppercase;font-size:13px;text-decoration: none; color: #14183E; font-weight: 400;}
+a.btns:hover{ text-decoration: none; color: #C86744;}
+a.btns:visited{ text-decoration: none; color: #14183E;}
 
+footer{height: 70px; background-color: rgb(34, 34, 34); margin-top: 70px; color:rgb(151, 151, 151);}
 
-footer{height: 60px; background-color: rgb(34, 34, 34); margin-top: 70px; color:rgb(151, 151, 151);}
-
-.main-splash-image{ border-top: 5px solid #eee; border-left: 5px solid #eee; border-right: 5px solid #eee;
+.main-splash-image{ border-top: 5px solid #c5c8cd; border-left: 5px solid #c5c8cd; border-right: 5px solid #c5c8cd;
     padding-bottom: 35px;}
 
-.main-logo{ padding-top:14px; font-size: 26px; padding-top: 14px; }
+.main-logo{ padding-top:6px; font-size: 26px; padding-top: 6px; }
 
-.splash-bar-grey{ background-color: #f9f9f9; padding-top: 50px; padding-bottom: 60px;}
+.mcp-logo{ padding-top:0px; font-size: 26px; padding-top: 0px; }
+.mcp-logo > ul{ list-style: none;}
+.mcp-logo > ul > li { display: inline; padding-left: 30px;}
 
-.main-nav{padding-top: 20px;}
+
+.splash-bar-grey{ background-color: #ffffff; padding-top: 50px; padding-bottom: 60px;}
+
+.main-nav{padding-top: 25px;}
 .main-nav > ul{ list-style: none;}
 .main-nav > ul > li { display: inline; padding-left: 30px;}
-a.main-nav-link:link{ text-transform: uppercase;font-size:13px;text-decoration: none; color: #fff; font-weight: 300;}
-a.main-nav-link:hover{ text-decoration: none; color: #FF9D3B;}
-a.main-nav-link:visited{ text-decoration: none; color: #ffffff;}
+a.main-nav-link:link{ text-transform: uppercase;font-size:13px;text-decoration: none; color: #14183E; font-weight: 400;}
+a.main-nav-link:hover{ text-decoration: none; color: #C86744;}
+a.main-nav-link:visited{ text-decoration: none; color: #14183E;}
 
 .footer-nav{ list-style: none; margin-left: -25px;}
 .footer-nav > li { display: inline; padding-left: 30px;}
