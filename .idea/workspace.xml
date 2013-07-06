@@ -2,24 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f409a6b3-4beb-4483-93f6-127ab8a8dc78" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PenobscotSchool.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373077448656" ignored="false" />
-    <file path="/about.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1372825066690" ignored="false" />
-    <file path="/home.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373077195374" ignored="false" />
-    <file path="/main.css" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373076322730" ignored="false" />
-    <file path="$PROJECT_DIR$/../Vinceria Website/css/main.css" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1372904532686" ignored="false" />
+    <file path="/Dummy.txt" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373090765962" ignored="false" />
+    <file path="/about.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373087952610" ignored="false" />
+    <file path="/home.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373088643735" ignored="false" />
+    <file path="/main.css" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373088716708" ignored="false" />
+    <file path="$PROJECT_DIR$/../Vinceria Website/css/main.css" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373087230391" ignored="false" />
     <file path="/grades.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1372904687562" ignored="false" />
-    <file path="$PROJECT_DIR$/../Vinceria Website/home.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1372907236465" ignored="false" />
-    <file path="$PROJECT_DIR$/../Vinceria Website/about.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1372907358746" ignored="false" />
-    <file path="$PROJECT_DIR$/../Vinceria Website/portfolio.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373029996796" ignored="false" />
-    <file path="/portfolio.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1372911427827" ignored="false" />
-    <file path="$PROJECT_DIR$/../Vinceria Website/.idea/workspace.xml" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373056140800" ignored="false" />
-    <file path="/academics.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373077483893" ignored="false" />
-    <file path="/athletics.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373077672001" ignored="false" />
-    <file path="/clubs.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373078263567" ignored="false" />
+    <file path="$PROJECT_DIR$/../Vinceria Website/home.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373086615008" ignored="false" />
+    <file path="$PROJECT_DIR$/../Vinceria Website/about.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373086661655" ignored="false" />
+    <file path="$PROJECT_DIR$/../Vinceria Website/portfolio.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373086669567" ignored="false" />
+    <file path="/portfolio.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373086088431" ignored="false" />
+    <file path="$PROJECT_DIR$/../Vinceria Website/.idea/workspace.xml" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373087606753" ignored="false" />
+    <file path="/academics.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373080871302" ignored="false" />
+    <file path="/athletics.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373086964670" ignored="false" />
+    <file path="/clubs.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373080315061" ignored="false" />
+    <file path="$PROJECT_DIR$/../MCdevtest/css/main.css" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373089560452" ignored="false" />
+    <file path="$PROJECT_DIR$/../MCdevtest/about.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373087955962" ignored="false" />
+    <file path="$PROJECT_DIR$/../MCdevtest/home.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373088679334" ignored="false" />
+    <file path="$PROJECT_DIR$/../MCdevtest/.idea/workspace.xml" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373090785237" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +44,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="19" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
+            <state line="61" column="12" selection-start="1862" selection-end="1862" vertical-scroll-proportion="2.5137362">
               <folding />
             </state>
           </provider>
@@ -51,7 +56,7 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="105" selection-start="5842" selection-end="5842" vertical-scroll-proportion="-6.875">
+            <state line="99" column="105" selection-start="5842" selection-end="5842" vertical-scroll-proportion="-58.75">
               <folding />
             </state>
           </provider>
@@ -60,7 +65,7 @@
       <file leaf-file-name="academics.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/academics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="105" column="50" selection-start="5231" selection-end="5231" vertical-scroll-proportion="-8.625">
+            <state line="66" column="37" selection-start="3437" selection-end="3437" vertical-scroll-proportion="-9.375">
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
               </folding>
@@ -71,7 +76,7 @@
       <file leaf-file-name="athletics.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/athletics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="78" selection-start="886" selection-end="886" vertical-scroll-proportion="-9.375">
+            <state line="15" column="87" selection-start="895" selection-end="895" vertical-scroll-proportion="-9.375">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
@@ -81,10 +86,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="clubs.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="clubs.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clubs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="59" selection-start="3995" selection-end="3995" vertical-scroll-proportion="0.8165138">
+            <state line="68" column="90" selection-start="3550" selection-end="3550" vertical-scroll-proportion="-7.375">
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
               </folding>
@@ -112,11 +117,11 @@
       <list>
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/grades.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/clubs.html" />
         <option value="$PROJECT_DIR$/academics.html" />
         <option value="$PROJECT_DIR$/athletics.html" />
-        <option value="$PROJECT_DIR$/clubs.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -187,7 +192,7 @@
     <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Vinceria Website" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MCdevtest" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="212" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1001" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1000" />
@@ -291,25 +296,29 @@
       <created>1373077455763</created>
       <updated>1373077455763</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added Clubs page">
+      <created>1373078341002</created>
+      <updated>1373078341002</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="512" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908162" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09414605" sideWeight="0.67091835" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09414605" sideWeight="0.67091835" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32908162" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -360,7 +369,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value=" plus new content" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Clubs page" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -380,6 +389,7 @@
     <MESSAGE value="Next level changes, new buttons" />
     <MESSAGE value="color changes and centering" />
     <MESSAGE value=" plus new content" />
+    <MESSAGE value="added Clubs page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -460,32 +470,34 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/clubs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="19" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="105" selection-start="5842" selection-end="5842" vertical-scroll-proportion="-6.875">
-          <folding />
+        <state line="68" column="90" selection-start="3550" selection-end="3550" vertical-scroll-proportion="-7.375">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/academics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="50" selection-start="5231" selection-end="5231" vertical-scroll-proportion="-8.625">
+        <state line="66" column="37" selection-start="3437" selection-end="3437" vertical-scroll-proportion="-9.375">
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="105" selection-start="5842" selection-end="5842" vertical-scroll-proportion="-58.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/athletics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="78" selection-start="886" selection-end="886" vertical-scroll-proportion="-9.375">
+        <state line="15" column="87" selection-start="895" selection-end="895" vertical-scroll-proportion="-9.375">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
@@ -494,12 +506,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clubs.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="59" selection-start="3995" selection-end="3995" vertical-scroll-proportion="0.8165138">
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="61" column="12" selection-start="1862" selection-end="1862" vertical-scroll-proportion="2.5137362">
+          <folding />
         </state>
       </provider>
     </entry>

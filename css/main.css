@@ -57,7 +57,7 @@ a.main-nav-link:link{ text-transform: uppercase;font-size:13px;text-decoration: 
 a.main-nav-link:hover{ text-decoration: none; color: #0C2C55;}
 a.main-nav-link:visited{ text-decoration: none; color: #ffffff;}
 
-footer{height: 80px; background-color: rgb(34, 34, 34); padding-top: 10px; margin-top: 70px; color:rgb(151, 151, 151);}
+footer{height: 75px; background-color: rgb(34, 34, 34); padding-top: 10px; margin-top: 70px; color:rgb(151, 151, 151);}
 
 .footer-nav{ list-style: none; margin-left: -25px;}
 .footer-nav > li { display: inline; padding-left: 30px;}
