@@ -32,7 +32,7 @@ header{
     background-image: linear-gradient(#ff6500, #ff6500);
     border-radius: 2px;
     color: #888888;
-    padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px;}
+    padding-left: 10px; padding-right: 10px; padding-top: 6px; padding-bottom: 6px;}
 a.btns{ text-transform: uppercase;font-size:12px;text-decoration: none; color: #ffffff; font-weight: 400;}
 a.btns:hover{ text-decoration: none; color: #0C2C55;}
 a.btns:visited{ text-decoration: none; color: #ffffff;}
@@ -54,7 +54,7 @@ a.btns:visited{ text-decoration: none; color: #ffffff;}
 .main-nav > ul{ list-style: none;}
 .main-nav > ul > li { display: inline; padding-left: 30px;}
 a.main-nav-link:link{ text-transform: uppercase;font-size:13px;text-decoration: none; color: #ffffff; font-weight: 400;}
-a.main-nav-link:hover{ text-decoration: none; color: #0C2C55;}
+a.main-nav-link:hover{ text-decoration: none; color: #0c2c55;}
 a.main-nav-link:visited{ text-decoration: none; color: #ffffff;}
 
 footer{height: 75px; background-color: rgb(34, 34, 34); padding-top: 10px; margin-top: 70px; color:rgb(151, 151, 151);}
