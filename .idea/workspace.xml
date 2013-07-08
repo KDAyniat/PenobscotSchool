@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f409a6b3-4beb-4483-93f6-127ab8a8dc78" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/volunteers2.jpg" afterPath="$PROJECT_DIR$/images/volunteers2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/academics.html" afterPath="$PROJECT_DIR$/academics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/athletics.html" afterPath="$PROJECT_DIR$/athletics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
+    <list default="true" id="f409a6b3-4beb-4483-93f6-127ab8a8dc78" name="Default" comment="added resources page">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PenobscotSchool.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373206068291" ignored="false" />
+    <file path="/Dummy.txt" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373258935943" ignored="false" />
     <file path="/about.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373087952610" ignored="false" />
     <file path="/home.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373225116732" ignored="false" />
-    <file path="/main.css" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373222052083" ignored="false" />
-    <file path="$PROJECT_DIR$/../Vinceria Website/css/main.css" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373087230391" ignored="false" />
+    <file path="/main.css" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373258128406" ignored="false" />
+    <file path="$PROJECT_DIR$/../Vinceria Website/css/main.css" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373257981931" ignored="false" />
     <file path="/grades.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1372904687562" ignored="false" />
     <file path="$PROJECT_DIR$/../Vinceria Website/home.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373086615008" ignored="false" />
     <file path="$PROJECT_DIR$/../Vinceria Website/about.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373086661655" ignored="false" />
@@ -33,7 +29,8 @@
     <file path="/index.gsp" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373116075762" ignored="false" />
     <file path="$PROJECT_DIR$/../66/grails-app/views/layouts/main.gsp" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373116381922" ignored="false" />
     <file path="/main.gsp" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373116381922" ignored="false" />
-    <file path="/eventsnews.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373225307503" ignored="false" />
+    <file path="/eventsnews.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373254861866" ignored="false" />
+    <file path="/resources.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373258819594" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="15" selection-start="888" selection-end="888" vertical-scroll-proportion="0.4532967">
+            <state line="48" column="43" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.9478022">
               <folding />
             </state>
           </provider>
@@ -65,7 +62,7 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="60" selection-start="1918" selection-end="1918" vertical-scroll-proportion="-11.875">
+            <state line="30" column="60" selection-start="1918" selection-end="1918" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -74,11 +71,8 @@
       <file leaf-file-name="academics.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/academics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="54" selection-start="4866" selection-end="4866" vertical-scroll-proportion="-46.25">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="95" column="54" selection-start="4866" selection-end="4866" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -86,11 +80,8 @@
       <file leaf-file-name="athletics.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/athletics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="64" selection-start="4056" selection-end="4056" vertical-scroll-proportion="-10.0">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="77" column="64" selection-start="4056" selection-end="4056" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,7 +89,7 @@
       <file leaf-file-name="clubs.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clubs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="60" selection-start="4282" selection-end="4282" vertical-scroll-proportion="-6.875">
+            <state line="85" column="60" selection-start="4282" selection-end="4282" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -107,7 +98,16 @@
       <file leaf-file-name="eventsnews.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eventsnews.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="49" selection-start="4050" selection-end="4050" vertical-scroll-proportion="-6.875">
+            <state line="66" column="12" selection-start="3454" selection-end="3454" vertical-scroll-proportion="-6.875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resources.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="79" column="105" selection-start="4378" selection-end="4378" vertical-scroll-proportion="-49.375">
               <folding />
             </state>
           </provider>
@@ -134,11 +134,12 @@
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/grades.html" />
         <option value="$PROJECT_DIR$/athletics.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/academics.html" />
         <option value="$PROJECT_DIR$/home.html" />
-        <option value="$PROJECT_DIR$/eventsnews.html" />
         <option value="$PROJECT_DIR$/clubs.html" />
+        <option value="$PROJECT_DIR$/eventsnews.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/resources.html" />
       </list>
     </option>
   </component>
@@ -209,7 +210,7 @@
     <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../66" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Vinceria Website" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="212" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1000" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1001" />
@@ -218,6 +219,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
@@ -329,14 +331,17 @@
       <created>1373206074512</created>
       <updated>1373206074512</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="events news page added">
+      <created>1373225551749</created>
+      <updated>1373225551749</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="512" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -346,11 +351,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32908162" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -398,7 +404,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="added events and news page" />
+    <option name="LAST_COMMIT_MESSAGE" value="added resources page" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -422,18 +428,13 @@
     <MESSAGE value="The latest changes" />
     <MESSAGE value="code changes and fixed clubs page" />
     <MESSAGE value="added events and news page" />
+    <MESSAGE value="events news page added" />
+    <MESSAGE value="added resources page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="82" column="69" selection-start="4999" selection-end="4999" vertical-scroll-proportion="0.0">
@@ -495,48 +496,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/athletics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="64" selection-start="4056" selection-end="4056" vertical-scroll-proportion="-10.0">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="77" column="64" selection-start="4056" selection-end="4056" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/academics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="54" selection-start="4866" selection-end="4866" vertical-scroll-proportion="-46.25">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="95" column="54" selection-start="4866" selection-end="4866" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="60" selection-start="1918" selection-end="1918" vertical-scroll-proportion="-11.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eventsnews.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="49" selection-start="4050" selection-end="4050" vertical-scroll-proportion="-6.875">
+        <state line="30" column="60" selection-start="1918" selection-end="1918" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clubs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="60" selection-start="4282" selection-end="4282" vertical-scroll-proportion="-6.875">
+        <state line="85" column="60" selection-start="4282" selection-end="4282" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eventsnews.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="12" selection-start="3454" selection-end="3454" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="105" selection-start="4378" selection-end="4378" vertical-scroll-proportion="-49.375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="15" selection-start="888" selection-end="888" vertical-scroll-proportion="0.4532967">
+        <state line="48" column="43" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.9478022">
           <folding />
         </state>
       </provider>

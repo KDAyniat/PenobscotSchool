@@ -38,17 +38,18 @@ a.btns:hover{ text-decoration: none; color: #0C2C55;}
 a.btns:visited{ text-decoration: none; color: #ffffff;}
 
 
-.main-splash-image{ border-top: 0px solid #c5c8cd; border-left: 0px solid #c5c8cd; border-right: 0px solid #c5c8cd;
-    padding-bottom: 35px;}
+.main-splash-image{ border-top: 0px solid #c5c8cd; border-left: 0px solid #c5c8cd; border-right: 0px solid #c5c8cd; padding-bottom: 35px;}
 
-.main-logo{ padding-top:20px; font-size: 30px; padding-top: 20px; }
 
 .mcp-logo{ padding-top:0px; font-size: 26px; padding-top: 0px; }
 .mcp-logo > ul{ list-style: none;}
 .mcp-logo > ul > li { display: inline; padding-left: 30px;}
 
 
-.splash-bar-grey{ background-color: #ffffff; padding-top: 50px; padding-bottom: 50px;}
+.splash-bar-grey{ background-color: #e2e3e2; padding-top: 50px; padding-bottom: 50px;}
+
+
+.main-logo{ padding-top:20px; font-size: 30px; padding-top: 20px; }
 
 .main-nav{padding-top: 25px;}
 .main-nav > ul{ list-style: none;}
