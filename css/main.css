@@ -15,9 +15,9 @@ h3{ font-size: 28px; font-weight: 300; margin-top: 5px; margin-bottom: 10px;}
 h4{ font-size: 28px; font-weight: 300; margin-top: 20px; margin-bottom: 20px;}
 
 header{
-    background-color: #ff6500;
+    background-color: #203473;
     height: 65px;
-    color: #ff6500;
+    color: #203473;
 }
 
 .copyright{}
@@ -27,18 +27,18 @@ header{
 }
 
 .btns{
-    background-color: #ff6500;
-    background-image: linear-gradient(#ff6500, #ff6500);
+    background-color: #cb0022;
+    background-image: linear-gradient(#cb0022, #cb0022);
     border-radius: 2px;
     color: #888888;
     padding-left: 10px; padding-right: 10px; padding-top: 6px; padding-bottom: 6px;}
 a.btns{ text-transform: uppercase;font-size:12px;text-decoration: none; color: #ffffff; font-weight: 400;}
-a.btns:hover{ text-decoration: none; color: #0C2C55;}
+a.btns:hover{ text-decoration: none; color: #f8da00;}
 a.btns:visited{ text-decoration: none; color: #ffffff;}
 
 .photo{
-    background-color: #ff6500;
-    background-image: linear-gradient(#ff6500, #ff6500);
+    background-color: #cb0022;
+    background-image: linear-gradient(#cb0022, #cb0022);
     border-radius: 2px;
     color: #888888;
     padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px;}
@@ -64,10 +64,10 @@ a.photo:visited{ text-decoration: none; color: #ffffff;}
 .main-nav > ul{ list-style: none;}
 .main-nav > ul > li { display: inline; padding-left: 30px;}
 a.main-nav-link:link{ text-transform: uppercase;font-size:13px;text-decoration: none; color: #ffffff; font-weight: 400;}
-a.main-nav-link:hover{ text-decoration: none; color: #0c2c55;}
+a.main-nav-link:hover{ text-decoration: none; color: #f8da00;}
 a.main-nav-link:visited{ text-decoration: none; color: #ffffff;}
 
-footer{height: 55px; background-color: rgb(34, 34, 34); padding-top: 35px; margin-top: 70px; color:rgb(151, 151, 151);}
+footer{height: 55px; background-color: #203473; padding-top: 35px; margin-top: 70px; color:rgb(151, 151, 151);}
 
 .footer-nav{ list-style: none; margin-left: -25px;}
 .footer-nav > li { display: inline; padding-left: 30px;}
