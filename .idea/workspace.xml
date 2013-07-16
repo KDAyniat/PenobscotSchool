@@ -4,13 +4,21 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f409a6b3-4beb-4483-93f6-127ab8a8dc78" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
+    <list default="true" id="f409a6b3-4beb-4483-93f6-127ab8a8dc78" name="Default" comment="added pcs google calendar">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/PCES_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/PCES_logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/PCES_logo3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/PCES_logo_blue_opq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/PCES_logo_white_opq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/calendar.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/penobscotwildcats-2-2012-735x454.jpg" afterPath="$PROJECT_DIR$/images/penobscotwildcats-2-2012-735x454.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/athletics.html" afterPath="$PROJECT_DIR$/athletics.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clubs.html" afterPath="$PROJECT_DIR$/clubs.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PenobscotSchool.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373895716209" ignored="false" />
+    <file path="/Dummy.txt" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373983421554" ignored="false" />
     <file path="/about.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373087952610" ignored="false" />
     <file path="/home.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373895551541" ignored="false" />
     <file path="/main.css" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373894211452" ignored="false" />
@@ -22,8 +30,8 @@
     <file path="/portfolio.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373821654275" ignored="false" />
     <file path="$PROJECT_DIR$/../Vinceria Website/.idea/workspace.xml" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373087606753" ignored="false" />
     <file path="/academics.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373894670879" ignored="false" />
-    <file path="/athletics.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373894654699" ignored="false" />
-    <file path="/clubs.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373894644994" ignored="false" />
+    <file path="/athletics.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373943273052" ignored="false" />
+    <file path="/clubs.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373941418545" ignored="false" />
     <file path="$PROJECT_DIR$/../MCdevtest/css/main.css" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373089560452" ignored="false" />
     <file path="$PROJECT_DIR$/../MCdevtest/about.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373087955962" ignored="false" />
     <file path="$PROJECT_DIR$/../MCdevtest/home.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373088679334" ignored="false" />
@@ -32,7 +40,7 @@
     <file path="/index.gsp" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373116075762" ignored="false" />
     <file path="$PROJECT_DIR$/../66/grails-app/views/layouts/main.gsp" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373116381922" ignored="false" />
     <file path="/main.gsp" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373116381922" ignored="false" />
-    <file path="/eventsnews.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373897763499" ignored="false" />
+    <file path="/eventsnews.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373982687473" ignored="false" />
     <file path="/resources.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373897108479" ignored="false" />
     <file path="/forms.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373894622648" ignored="false" />
     <file path="/contact.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373894602764" ignored="false" />
@@ -41,7 +49,8 @@
     <file path="$PROJECT_DIR$/../ayniat/portfolio.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373821657467" ignored="false" />
     <file path="/areaschools.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373894720714" ignored="false" />
     <file path="/photogallery.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373897385894" ignored="false" />
-    <file path="/newsletter.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373897699324" ignored="false" />
+    <file path="/newsletter.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373983302472" ignored="false" />
+    <file path="/schoolcalendar.html" changelist="f409a6b3-4beb-4483-93f6-127ab8a8dc78" time="1373982519725" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,15 +73,8 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="53" selection-start="4442" selection-end="4442" vertical-scroll-proportion="-7.1666665">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#h3#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#h3#0;n#div#1;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#h3#0;n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#h3#0;n#div#3;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="68" column="53" selection-start="4442" selection-end="4442" vertical-scroll-proportion="-42.5">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -80,7 +82,7 @@
       <file leaf-file-name="academics.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/academics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="100" selection-start="971" selection-end="971" vertical-scroll-proportion="-9.375">
+            <state line="15" column="100" selection-start="971" selection-end="971" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -89,8 +91,14 @@
       <file leaf-file-name="athletics.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/athletics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="100" selection-start="899" selection-end="899" vertical-scroll-proportion="-9.375">
-              <folding />
+            <state line="91" column="61" selection-start="4761" selection-end="4761" vertical-scroll-proportion="-9.75">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#h3#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#h3#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#h3#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#h3#0;n#div#3;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,7 +106,7 @@
       <file leaf-file-name="clubs.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clubs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="100" selection-start="899" selection-end="899" vertical-scroll-proportion="-10.0">
+            <state line="47" column="50" selection-start="2576" selection-end="2576" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
@@ -107,8 +115,19 @@
       <file leaf-file-name="eventsnews.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eventsnews.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="52" selection-start="3078" selection-end="3078" vertical-scroll-proportion="-16.25">
+            <state line="74" column="52" selection-start="3974" selection-end="3974" vertical-scroll-proportion="-25.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schoolcalendar.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schoolcalendar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="101" selection-start="2562" selection-end="2562" vertical-scroll-proportion="-20.0">
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,7 +135,7 @@
       <file leaf-file-name="forms.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forms.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="100" selection-start="895" selection-end="895" vertical-scroll-proportion="-9.375">
+            <state line="15" column="100" selection-start="895" selection-end="895" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -125,7 +144,7 @@
       <file leaf-file-name="resources.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="72" selection-start="3313" selection-end="3313" vertical-scroll-proportion="-10.0">
+            <state line="59" column="72" selection-start="3313" selection-end="3313" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -134,16 +153,7 @@
       <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="100" selection-start="897" selection-end="897" vertical-scroll-proportion="-9.375">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="photogallery.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/photogallery.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="62" selection-start="710" selection-end="710" vertical-scroll-proportion="-6.875">
+            <state line="15" column="100" selection-start="897" selection-end="897" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
@@ -152,8 +162,10 @@
       <file leaf-file-name="newsletter.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/newsletter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="14" selection-start="974" selection-end="974" vertical-scroll-proportion="0.39538714">
-              <folding />
+            <state line="40" column="82" selection-start="2321" selection-end="2321" vertical-scroll-proportion="0.9852217">
+              <folding>
+                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -181,21 +193,22 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/forms.html" />
-        <option value="$PROJECT_DIR$/clubs.html" />
-        <option value="$PROJECT_DIR$/athletics.html" />
         <option value="$PROJECT_DIR$/academics.html" />
         <option value="$PROJECT_DIR$/areaschools.html" />
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/photogallery.html" />
-        <option value="$PROJECT_DIR$/eventsnews.html" />
         <option value="$PROJECT_DIR$/resources.html" />
+        <option value="$PROJECT_DIR$/clubs.html" />
+        <option value="$PROJECT_DIR$/athletics.html" />
+        <option value="$PROJECT_DIR$/schoolcalendar.html" />
+        <option value="$PROJECT_DIR$/eventsnews.html" />
         <option value="$PROJECT_DIR$/newsletter.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1680" />
+    <option name="width" value="1609" />
     <option name="height" value="792" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -262,16 +275,16 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ayniat" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="212" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1001" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1000" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1001" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="207" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="204" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig" serverName="MCdevtest" serverId="0fc21464-c6fa-421e-bed3-2ec055944dbe">
     <servers>
@@ -462,7 +475,11 @@
       <created>1373895723704</created>
       <updated>1373895723704</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="newsletter page added">
+      <created>1373898125627</created>
+      <updated>1373898125627</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -486,24 +503,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="792" extended-state="0" />
+    <frame x="0" y="22" width="1609" height="792" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32886904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2178636" sideWeight="0.67113096" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12547289" sideWeight="0.67113096" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3988355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32886904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3988355" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -551,7 +568,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="color change scheme" />
+    <option name="LAST_COMMIT_MESSAGE" value="added pcs google calendar" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -584,16 +601,13 @@
     <MESSAGE value="added area schools and photo gallery" />
     <MESSAGE value="new updates" />
     <MESSAGE value="color change scheme" />
+    <MESSAGE value="newsletter page added" />
+    <MESSAGE value="added pcs google calendar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/2013-05-06_16-43-52_431.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/2013-05-10_10-30-10_954.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -616,87 +630,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="100" selection-start="897" selection-end="897" vertical-scroll-proportion="-9.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/forms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="100" selection-start="895" selection-end="895" vertical-scroll-proportion="-9.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clubs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="100" selection-start="899" selection-end="899" vertical-scroll-proportion="-10.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/athletics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="100" selection-start="899" selection-end="899" vertical-scroll-proportion="-9.375">
+        <state line="15" column="100" selection-start="895" selection-end="895" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/academics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="100" selection-start="971" selection-end="971" vertical-scroll-proportion="-9.375">
+        <state line="15" column="100" selection-start="971" selection-end="971" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/areaschools.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="78" selection-start="1978" selection-end="1978" vertical-scroll-proportion="0.71428573">
+        <state line="29" column="78" selection-start="1978" selection-end="1978" vertical-scroll-proportion="0.71428573" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="72" selection-start="3313" selection-end="3313" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clubs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="50" selection-start="2576" selection-end="2576" vertical-scroll-proportion="-3.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="53" selection-start="4442" selection-end="4442" vertical-scroll-proportion="-7.1666665">
+        <state line="68" column="53" selection-start="4442" selection-end="4442" vertical-scroll-proportion="-42.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/athletics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="61" selection-start="4761" selection-end="4761" vertical-scroll-proportion="-9.75">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#h3#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#h3#0;n#div#1;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#h3#0;n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#h3#0;n#div#3;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#h3#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#h3#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#h3#0;n#div#2;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#h3#0;n#div#3;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/photogallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="62" selection-start="710" selection-end="710" vertical-scroll-proportion="-6.875">
+        <state line="146" column="27" selection-start="6726" selection-end="7688" vertical-scroll-proportion="0.6551724">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="100" selection-start="897" selection-end="897" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolcalendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="101" selection-start="2562" selection-end="2562" vertical-scroll-proportion="-20.0">
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eventsnews.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="52" selection-start="3078" selection-end="3078" vertical-scroll-proportion="-16.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="72" selection-start="3313" selection-end="3313" vertical-scroll-proportion="-10.0">
+        <state line="74" column="52" selection-start="3974" selection-end="3974" vertical-scroll-proportion="-25.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/newsletter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="14" selection-start="974" selection-end="974" vertical-scroll-proportion="0.39538714">
-          <folding />
+        <state line="40" column="82" selection-start="2321" selection-end="2321" vertical-scroll-proportion="0.9852217">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
